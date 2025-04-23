@@ -298,4 +298,4 @@ with col2:
 
 # Footer
 st.markdown("---")
-st.markdown("Powered by Hugging Face Transformers | Utvecklad av Sentiment Analyzer Team")
+st.markdown("Powered by Hugging Face Transformers")
